@@ -1,251 +1,251 @@
-,name,year,director,actors,rating,no_of_votes,imdb_link
-0,The Shawshank Redemption,1994.0,Frank Darabont,"Tim Robbins, Morgan Freeman",9.2,1709451.0,/title/tt0111161/
-1,The Godfather,1972.0,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2,1168605.0,/title/tt0068646/
-2,The Godfather: Part II,1974.0,Francis Ford Coppola,"Al Pacino, Robert De Niro",9.0,800383.0,/title/tt0071562/
-3,The Dark Knight,2008.0,Christopher Nolan,"Christian Bale, Heath Ledger",8.9,1696362.0,/title/tt0468569/
-4,Schindler's List,1993.0,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9,875353.0,/title/tt0108052/
-5,12 Angry Men,1957.0,Sidney Lumet,"Henry Fonda, Lee J. Cobb",8.9,454325.0,/title/tt0050083/
-6,Pulp Fiction,1994.0,Quentin Tarantino,"John Travolta, Uma Thurman",8.9,1339553.0,/title/tt0110912/
-7,The Lord of the Rings: The Return of the King,2003.0,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9,1228813.0,/title/tt0167260/
-8,"Il buono, il brutto, il cattivo",1966.0,Sergio Leone,"Clint Eastwood, Eli Wallach",8.9,508941.0,/title/tt0060196/
-9,Fight Club,1999.0,David Fincher,"Brad Pitt, Edward Norton",8.8,1363973.0,/title/tt0137523/
-10,The Lord of the Rings: The Fellowship of the Ring,2001.0,Peter Jackson,"Elijah Wood, Ian McKellen",8.8,1251628.0,/title/tt0120737/
-11,Star Wars: Episode V - The Empire Strikes Back,1980.0,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7,847793.0,/title/tt0080684/
-12,Forrest Gump,1994.0,Robert Zemeckis,"Tom Hanks, Robin Wright",8.7,1268383.0,/title/tt0109830/
-13,Inception,2010.0,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.7,1486778.0,/title/tt1375666/
-14,The Lord of the Rings: The Two Towers,2002.0,Peter Jackson,"Elijah Wood, Ian McKellen",8.7,1112517.0,/title/tt0167261/
-15,One Flew Over the Cuckoo's Nest,1975.0,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7,687051.0,/title/tt0073486/
-16,Goodfellas,1990.0,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7,737230.0,/title/tt0099685/
-17,The Matrix,1999.0,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7,1231348.0,/title/tt0133093/
-18,Shichinin no samurai,1954.0,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6,231579.0,/title/tt0047478/
-19,Star Wars,1977.0,George Lucas,"Mark Hamill, Harrison Ford",8.6,920944.0,/title/tt0076759/
-20,Cidade de Deus,2002.0,Fernando Meirelles,"Alexandre Rodrigues, Matheus Nachtergaele",8.6,538850.0,/title/tt0317248/
-21,Se7en,1995.0,David Fincher,"Morgan Freeman, Brad Pitt",8.6,1036829.0,/title/tt0114369/
-22,The Silence of the Lambs,1991.0,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6,898875.0,/title/tt0102926/
-23,It's a Wonderful Life,1946.0,Frank Capra,"James Stewart, Donna Reed",8.6,278711.0,/title/tt0038650/
-24,The Usual Suspects,1995.0,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.6,749164.0,/title/tt0114814/
-25,La vita è bella,1997.0,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6,426250.0,/title/tt0118799/
-26,Léon,1994.0,Luc Besson,"Jean Reno, Gary Oldman",8.5,735049.0,/title/tt0110413/
-27,Sen to Chihiro no kamikakushi,2001.0,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.5,424668.0,/title/tt0245429/
-28,Once Upon a Time in the West,1968.0,Sergio Leone,"Henry Fonda, Charles Bronson",8.5,218462.0,/title/tt0064116/
-29,Saving Private Ryan,1998.0,Steven Spielberg,"Tom Hanks, Matt Damon",8.5,892328.0,/title/tt0120815/
-30,American History X,1998.0,Tony Kaye,"Edward Norton, Edward Furlong",8.5,791099.0,/title/tt0120586/
-31,Casablanca,1942.0,Michael Curtiz,"Humphrey Bogart, Ingrid Bergman",8.5,391311.0,/title/tt0034583/
-32,Interstellar,2014.0,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.5,947800.0,/title/tt0816692/
-33,Psycho,1960.0,Alfred Hitchcock,"Anthony Perkins, Janet Leigh",8.5,427598.0,/title/tt0054215/
-34,City Lights,1931.0,Charles Chaplin,"Charles Chaplin, Virginia Cherrill",8.5,109837.0,/title/tt0021749/
-35,Raiders of the Lost Ark,1981.0,Steven Spielberg,"Harrison Ford, Karen Allen",8.5,667712.0,/title/tt0082971/
-36,The Green Mile,1999.0,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.5,795080.0,/title/tt0120689/
-37,Modern Times,1936.0,Charles Chaplin,"Charles Chaplin, Paulette Goddard",8.5,145239.0,/title/tt0027977/
-38,The Intouchables,2011.0,Olivier Nakache,"François Cluzet, Omar Sy",8.5,512260.0,/title/tt1675434/
-39,Rear Window,1954.0,Alfred Hitchcock,"James Stewart, Grace Kelly",8.5,319880.0,/title/tt0047396/
-40,Terminator 2: Judgment Day,1991.0,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5,752917.0,/title/tt0103064/
-41,The Departed,2006.0,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5,884161.0,/title/tt0407887/
-42,The Pianist,2002.0,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5,505950.0,/title/tt0253474/
-43,Back to the Future,1985.0,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd",8.5,741681.0,/title/tt0088763/
-44,Whiplash,2014.0,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5,411937.0,/title/tt2582802/
-45,Gladiator,2000.0,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5,994110.0,/title/tt0172495/
-46,Memento,2000.0,Christopher Nolan,"Guy Pearce, Carrie-Anne Moss",8.5,855918.0,/title/tt0209144/
-47,Apocalypse Now,1979.0,Francis Ford Coppola,"Martin Sheen, Marlon Brando",8.5,455156.0,/title/tt0078788/
-48,The Prestige,2006.0,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5,855219.0,/title/tt0482571/
-49,The Lion King,1994.0,Roger Allers,"Matthew Broderick, Jeremy Irons",8.4,653477.0,/title/tt0110357/
-50,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964.0,Stanley Kubrick,"Peter Sellers, George C. Scott",8.4,346206.0,/title/tt0057012/
-51,Sunset Blvd.,1950.0,Billy Wilder,"William Holden, Gloria Swanson",8.4,141147.0,/title/tt0043014/
-52,Alien,1979.0,Ridley Scott,"Sigourney Weaver, Tom Skerritt",8.4,570495.0,/title/tt0078748/
-53,The Great Dictator,1940.0,Charles Chaplin,"Charles Chaplin, Paulette Goddard",8.4,139493.0,/title/tt0032553/
-54,The Lives of Others,2006.0,Florian Henckel von Donnersmarck,"Ulrich Mühe, Martina Gedeck",8.4,262490.0,/title/tt0405094/
-55,Nuovo Cinema Paradiso,1988.0,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.4,154558.0,/title/tt0095765/
-56,Paths of Glory,1957.0,Stanley Kubrick,"Kirk Douglas, Ralph Meeker",8.4,122457.0,/title/tt0050825/
-57,Django Unchained,2012.0,Quentin Tarantino,"Jamie Foxx, Christoph Waltz",8.4,968838.0,/title/tt1853728/
-58,The Shining,1980.0,Stanley Kubrick,"Jack Nicholson, Shelley Duvall",8.4,617889.0,/title/tt0081505/
-59,Hotaru no haka,1988.0,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.4,140992.0,/title/tt0095327/
-60,WALL·E,2008.0,Andrew Stanton,"Ben Burtt, Elissa Knight",8.4,728162.0,/title/tt0910970/
-61,The Dark Knight Rises,2012.0,Christopher Nolan,"Christian Bale, Tom Hardy",8.4,1158194.0,/title/tt1345836/
-62,American Beauty,1999.0,Sam Mendes,"Kevin Spacey, Annette Bening",8.4,831298.0,/title/tt0169547/
-63,Aliens,1986.0,James Cameron,"Sigourney Weaver, Michael Biehn",8.4,493315.0,/title/tt0090605/
-64,Mononoke-hime,1997.0,Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida",8.4,224758.0,/title/tt0119698/
-65,Oldeuboi,2003.0,Chan-wook Park,"Min-sik Choi, Ji-tae Yu",8.4,361072.0,/title/tt0364569/
-66,Once Upon a Time in America,1984.0,Sergio Leone,"Robert De Niro, James Woods",8.4,223647.0,/title/tt0087843/
-67,Citizen Kane,1941.0,Orson Welles,"Orson Welles, Joseph Cotten",8.4,301019.0,/title/tt0033467/
-68,Das Boot,1981.0,Wolfgang Petersen,"Jürgen Prochnow, Herbert Grönemeyer",8.3,169884.0,/title/tt0082096/
-69,North by Northwest,1959.0,Alfred Hitchcock,"Cary Grant, Eva Marie Saint",8.3,222419.0,/title/tt0053125/
-70,Witness for the Prosecution,1957.0,Billy Wilder,"Tyrone Power, Marlene Dietrich",8.3,64297.0,/title/tt0051201/
-71,Vertigo,1958.0,Alfred Hitchcock,"James Stewart, Kim Novak",8.3,252090.0,/title/tt0052357/
-72,Star Wars: Episode VI - Return of the Jedi,1983.0,Richard Marquand,"Mark Hamill, Harrison Ford",8.3,690677.0,/title/tt0086190/
-73,M,1931.0,Fritz Lang,"Peter Lorre, Ellen Widmann",8.3,100188.0,/title/tt0022100/
-74,Reservoir Dogs,1992.0,Quentin Tarantino,"Harvey Keitel, Tim Roth",8.3,672477.0,/title/tt0105236/
-75,Braveheart,1995.0,Mel Gibson,"Mel Gibson, Sophie Marceau",8.3,744596.0,/title/tt0112573/
-76,Amélie,2001.0,Jean-Pierre Jeunet,"Audrey Tautou, Mathieu Kassovitz",8.3,540426.0,/title/tt0211915/
-77,Requiem for a Dream,2000.0,Darren Aronofsky,"Ellen Burstyn, Jared Leto",8.3,579891.0,/title/tt0180093/
-78,A Clockwork Orange,1971.0,Stanley Kubrick,"Malcolm McDowell, Patrick Magee",8.3,564992.0,/title/tt0066921/
-79,Taxi Driver,1976.0,Martin Scorsese,"Robert De Niro, Jodie Foster",8.3,513576.0,/title/tt0075314/
-80,Double Indemnity,1944.0,Billy Wilder,"Fred MacMurray, Barbara Stanwyck",8.3,98921.0,/title/tt0036775/
-81,Lawrence of Arabia,1962.0,David Lean,"Peter O'Toole, Alec Guinness",8.3,194943.0,/title/tt0056172/
-82,Toy Story 3,2010.0,Lee Unkrich,"Tom Hanks, Tim Allen",8.3,551800.0,/title/tt0435761/
-83,To Kill a Mockingbird,1962.0,Robert Mulligan,"Gregory Peck, John Megna",8.3,217664.0,/title/tt0056592/
-84,Eternal Sunshine of the Spotless Mind,2004.0,Michel Gondry,"Jim Carrey, Kate Winslet",8.3,675211.0,/title/tt0338013/
-85,Amadeus,1984.0,Milos Forman,"F. Murray Abraham, Tom Hulce",8.3,273821.0,/title/tt0086879/
-86,Full Metal Jacket,1987.0,Stanley Kubrick,"Matthew Modine, R. Lee Ermey",8.3,491222.0,/title/tt0093058/
-87,The Sting,1973.0,George Roy Hill,"Paul Newman, Robert Redford",8.3,177576.0,/title/tt0070735/
-88,2001: A Space Odyssey,1968.0,Stanley Kubrick,"Keir Dullea, Gary Lockwood",8.3,432712.0,/title/tt0062622/
-89,Ladri di biciclette,1948.0,Vittorio De Sica,"Lamberto Maggiorani, Enzo Staiola",8.3,95780.0,/title/tt0040522/
-90,Toy Story,1995.0,John Lasseter,"Tom Hanks, Tim Allen",8.3,631928.0,/title/tt0114709/
-91,Singin' in the Rain,1952.0,Stanley Donen,"Gene Kelly, Donald O'Connor",8.3,151785.0,/title/tt0045152/
-92,Snatch,2000.0,Guy Ritchie,"Jason Statham, Brad Pitt",8.3,607367.0,/title/tt0208092/
-93,Inglourious Basterds,2009.0,Quentin Tarantino,"Brad Pitt, Diane Kruger",8.3,897135.0,/title/tt0361748/
-94,The Kid,1921.0,Charles Chaplin,"Charles Chaplin, Edna Purviance",8.3,68679.0,/title/tt0012349/
-95,Monty Python and the Holy Grail,1975.0,Terry Gilliam,"Graham Chapman, John Cleese",8.3,386104.0,/title/tt0071853/
-96,L.A. Confidential,1997.0,Curtis Hanson,"Kevin Spacey, Russell Crowe",8.3,418406.0,/title/tt0119488/
-97,Per qualche dollaro in più,1965.0,Sergio Leone,"Clint Eastwood, Lee Van Cleef",8.3,159569.0,/title/tt0059578/
-98,Rashômon,1950.0,Akira Kurosawa,"Toshirô Mifune, Machiko Kyô",8.3,103926.0,/title/tt0042876/
-99,The Apartment,1960.0,Billy Wilder,"Jack Lemmon, Shirley MacLaine",8.3,110700.0,/title/tt0053604/
-100,Scarface,1983.0,Brian De Palma,"Al Pacino, Michelle Pfeiffer",8.3,543557.0,/title/tt0086250/
-101,3 Idiots,2009.0,Rajkumar Hirani,"Aamir Khan, Madhavan",8.3,212834.0,/title/tt1187043/
-102,Indiana Jones and the Last Crusade,1989.0,Steven Spielberg,"Harrison Ford, Sean Connery",8.3,520992.0,/title/tt0097576/
-103,Jodaeiye Nader az Simin,2011.0,Asghar Farhadi,"Peyman Moaadi, Leila Hatami",8.2,153965.0,/title/tt1832382/
-104,Metropolis,1927.0,Fritz Lang,"Brigitte Helm, Alfred Abel",8.2,113138.0,/title/tt0017136/
-105,Jagten,2012.0,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen",8.2,173493.0,/title/tt2106476/
-106,All About Eve,1950.0,Joseph L. Mankiewicz,"Bette Davis, Anne Baxter",8.2,83867.0,/title/tt0042192/
-107,Yôjinbô,1961.0,Akira Kurosawa,"Toshirô Mifune, Eijirô Tôno",8.2,74919.0,/title/tt0055630/
-108,Good Will Hunting,1997.0,Gus Van Sant,"Robin Williams, Matt Damon",8.2,612805.0,/title/tt0119217/
-109,Batman Begins,2005.0,Christopher Nolan,"Christian Bale, Michael Caine",8.2,993072.0,/title/tt0372784/
-110,The Treasure of the Sierra Madre,1948.0,John Huston,"Humphrey Bogart, Walter Huston",8.2,80143.0,/title/tt0040897/
-111,Some Like It Hot,1959.0,Billy Wilder,"Marilyn Monroe, Tony Curtis",8.2,177008.0,/title/tt0053291/
-112,Up,2009.0,Pete Docter,"Edward Asner, Jordan Nagai",8.2,674935.0,/title/tt1049413/
-113,Unforgiven,1992.0,Clint Eastwood,"Clint Eastwood, Gene Hackman",8.2,280514.0,/title/tt0105695/
-114,The Third Man,1949.0,Carol Reed,"Orson Welles, Joseph Cotten",8.2,114997.0,/title/tt0041959/
-115,Der Untergang,2004.0,Oliver Hirschbiegel,"Bruno Ganz, Alexandra Maria Lara",8.2,250835.0,/title/tt0363163/
-116,Raging Bull,1980.0,Martin Scorsese,"Robert De Niro, Cathy Moriarty",8.2,237549.0,/title/tt0081398/
-117,Bacheha-Ye aseman,1997.0,Majid Majidi,"Mohammad Amir Naji, Amir Farrokh Hashemian",8.2,29087.0,/title/tt0118849/
-118,Die Hard,1988.0,John McTiernan,"Bruce Willis, Alan Rickman",8.2,598726.0,/title/tt0095016/
-119,The Great Escape,1963.0,John Sturges,"Steve McQueen, James Garner",8.2,167493.0,/title/tt0057115/
-120,Chinatown,1974.0,Roman Polanski,"Jack Nicholson, Faye Dunaway",8.2,218514.0,/title/tt0071315/
-121,Inside Out,2015.0,Pete Docter,"Amy Poehler, Bill Hader",8.2,358480.0,/title/tt2096673/
-122,Heat,1995.0,Michael Mann,"Al Pacino, Robert De Niro",8.2,435654.0,/title/tt0113277/
-123,Pan's Labyrinth,2006.0,Guillermo del Toro,"Ivana Baquero, Ariadna Gil",8.2,472652.0,/title/tt0457430/
-124,Room,2015.0,Lenny Abrahamson,"Brie Larson, Jacob Tremblay",8.2,173440.0,/title/tt3170832/
-125,On the Waterfront,1954.0,Elia Kazan,"Marlon Brando, Karl Malden",8.2,102040.0,/title/tt0047296/
-126,Tonari no Totoro,1988.0,Hayao Miyazaki,"Hitoshi Takagi, Noriko Hidaka",8.2,175501.0,/title/tt0096283/
-127,Ikiru,1952.0,Akira Kurosawa,"Takashi Shimura, Nobuo Kaneko",8.2,42867.0,/title/tt0044741/
-128,Ran,1985.0,Akira Kurosawa,"Tatsuya Nakadai, Akira Terao",8.2,78677.0,/title/tt0089881/
-129,The Gold Rush,1925.0,Charles Chaplin,"Charles Chaplin, Mack Swain",8.2,68776.0,/title/tt0015864/
-130,Mr. Smith Goes to Washington,1939.0,Frank Capra,"James Stewart, Jean Arthur",8.2,78165.0,/title/tt0031679/
-131,The Bridge on the River Kwai,1957.0,David Lean,"William Holden, Alec Guinness",8.2,151203.0,/title/tt0050212/
-132,El secreto de sus ojos,2009.0,Juan José Campanella,"Ricardo Darín, Soledad Villamil",8.2,133993.0,/title/tt1305806/
-133,Blade Runner,1982.0,Ridley Scott,"Harrison Ford, Rutger Hauer",8.2,466076.0,/title/tt0083658/
-134,La passion de Jeanne d'Arc,1928.0,Carl Theodor Dreyer,"Maria Falconetti, Eugene Silvain",8.2,25907.0,/title/tt0019254/
-135,Det sjunde inseglet,1957.0,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand",8.2,113281.0,/title/tt0050976/
-136,"Lock, Stock and Two Smoking Barrels",1998.0,Guy Ritchie,"Jason Flemyng, Dexter Fletcher",8.2,419061.0,/title/tt0120735/
-137,Hauru no ugoku shiro,2004.0,Hayao Miyazaki,"Chieko Baishô, Takuya Kimura",8.2,217407.0,/title/tt0347149/
-138,Casino,1995.0,Martin Scorsese,"Robert De Niro, Sharon Stone",8.2,337496.0,/title/tt0112641/
-139,Judgment at Nuremberg,1961.0,Stanley Kramer,"Spencer Tracy, Burt Lancaster",8.2,45117.0,/title/tt0055031/
-140,Smultronstället,1957.0,Ingmar Bergman,"Victor Sjöström, Bibi Andersson",8.2,63889.0,/title/tt0050986/
-141,The General,1926.0,Clyde Bruckman,"Buster Keaton, Marion Mack",8.2,54252.0,/title/tt0017925/
-142,Sunrise: A Song of Two Humans,1927.0,F.W. Murnau,"George O'Brien, Janet Gaynor",8.2,29794.0,/title/tt0018455/
-143,The Elephant Man,1980.0,David Lynch,"Anthony Hopkins, John Hurt",8.2,163700.0,/title/tt0080678/
-144,A Beautiful Mind,2001.0,Ron Howard,"Russell Crowe, Ed Harris",8.2,618979.0,/title/tt0268978/
-145,Warrior,2011.0,Gavin O'Connor,"Tom Hardy, Nick Nolte",8.2,336179.0,/title/tt1291584/
-146,The Wolf of Wall Street,2013.0,Martin Scorsese,"Leonardo DiCaprio, Jonah Hill",8.2,795092.0,/title/tt0993846/
-147,V for Vendetta,2005.0,James McTeigue,"Hugo Weaving, Natalie Portman",8.1,800743.0,/title/tt0434409/
-148,Incendies,2010.0,Denis Villeneuve,"Lubna Azabal, Mélissa Désormeaux-Poulin",8.1,82201.0,/title/tt1255953/
-149,Gran Torino,2008.0,Clint Eastwood,"Clint Eastwood, Bee Vang",8.1,567057.0,/title/tt1205489/
-150,Tôkyô monogatari,1953.0,Yasujirô Ozu,"Chishû Ryû, Chieko Higashiyama",8.1,27317.0,/title/tt0046438/
-151,The Big Lebowski,1998.0,Joel Coen,"Jeff Bridges, John Goodman",8.1,543729.0,/title/tt0118715/
-152,Star Wars: Episode VII - The Force Awakens,2015.0,J.J. Abrams,"Daisy Ridley, John Boyega",8.1,583201.0,/title/tt2488496/
-153,The Deer Hunter,1978.0,Michael Cimino,"Robert De Niro, Christopher Walken",8.1,234927.0,/title/tt0077416/
-154,Dial M for Murder,1954.0,Alfred Hitchcock,"Ray Milland, Grace Kelly",8.1,107923.0,/title/tt0046912/
-155,Trainspotting,1996.0,Danny Boyle,"Ewan McGregor, Ewen Bremner",8.1,474446.0,/title/tt0117951/
-156,Gone with the Wind,1939.0,Victor Fleming,"Clark Gable, Vivien Leigh",8.1,217470.0,/title/tt0031381/
-157,Fargo,1996.0,Joel Coen,"William H. Macy, Frances McDormand",8.1,459513.0,/title/tt0116282/
-158,Rebecca,1940.0,Alfred Hitchcock,"Laurence Olivier, Joan Fontaine",8.1,88427.0,/title/tt0032976/
-159,Cool Hand Luke,1967.0,Stuart Rosenberg,"Paul Newman, George Kennedy",8.1,121101.0,/title/tt0061512/
-160,Finding Nemo,2003.0,Andrew Stanton,"Albert Brooks, Ellen DeGeneres",8.1,702285.0,/title/tt0266543/
-161,How to Train Your Dragon,2010.0,Dean DeBlois,"Jay Baruchel, Gerard Butler",8.1,491736.0,/title/tt0892769/
-162,The Sixth Sense,1999.0,M. Night Shyamalan,"Bruce Willis, Haley Joel Osment",8.1,711732.0,/title/tt0167404/
-163,The Thing,1982.0,John Carpenter,"Kurt Russell, Wilford Brimley",8.1,261506.0,/title/tt0084787/
-164,No Country for Old Men,2007.0,Ethan Coen,"Tommy Lee Jones, Javier Bardem",8.1,620717.0,/title/tt0477348/
-165,Into the Wild,2007.0,Sean Penn,"Emile Hirsch, Vince Vaughn",8.1,431714.0,/title/tt0758758/
-166,The Message,1976.0,Moustapha Akkad,"Anthony Quinn, Irene Papas",8.1,31052.0,/title/tt0074896/
-167,Mary and Max,2009.0,Adam Elliot,"Toni Collette, Philip Seymour Hoffman",8.1,120890.0,/title/tt0978762/
-168,Gone Girl,2014.0,David Fincher,"Ben Affleck, Rosamund Pike",8.1,580896.0,/title/tt2267998/
-169,Kill Bill: Vol. 1,2003.0,Quentin Tarantino,"Uma Thurman, David Carradine",8.1,743955.0,/title/tt0266697/
-170,Idi i smotri,1985.0,Elem Klimov,"Aleksey Kravchenko, Olga Mironova",8.1,26399.0,/title/tt0091251/
-171,It Happened One Night,1934.0,Frank Capra,"Clark Gable, Claudette Colbert",8.1,65742.0,/title/tt0025316/
-172,There Will Be Blood,2007.0,Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano",8.1,377966.0,/title/tt0469494/
-173,Life of Brian,1979.0,Terry Jones,"Graham Chapman, John Cleese",8.1,275369.0,/title/tt0079470/
-174,Rush,2013.0,Ron Howard,"Daniel Brühl, Chris Hemsworth",8.1,317188.0,/title/tt1979320/
-175,Hotel Rwanda,2004.0,Terry George,"Don Cheadle, Sophie Okonedo",8.1,267164.0,/title/tt0395169/
-176,Le notti di Cabiria,1957.0,Federico Fellini,"Giulietta Masina, François Périer",8.1,26478.0,/title/tt0050783/
-177,Platoon,1986.0,Oliver Stone,"Charlie Sheen, Tom Berenger",8.1,294534.0,/title/tt0091763/
-178,Le salaire de la peur,1953.0,Henri-Georges Clouzot,"Yves Montand, Charles Vanel",8.1,35850.0,/title/tt0046268/
-179,Network,1976.0,Sidney Lumet,"Faye Dunaway, William Holden",8.1,104753.0,/title/tt0074958/
-180,Spotlight,2015.0,Tom McCarthy,"Mark Ruffalo, Michael Keaton",8.1,209185.0,/title/tt1895587/
-181,The Maltese Falcon,1941.0,John Huston,"Humphrey Bogart, Mary Astor",8.1,114474.0,/title/tt0033870/
-182,Shutter Island,2010.0,Martin Scorsese,"Leonardo DiCaprio, Emily Mortimer",8.1,797290.0,/title/tt1130884/
-183,Butch Cassidy and the Sundance Kid,1969.0,George Roy Hill,"Paul Newman, Robert Redford",8.1,153864.0,/title/tt0064115/
-184,Mad Max: Fury Road,2015.0,George Miller,"Tom Hardy, Charlize Theron",8.1,567799.0,/title/tt1392190/
-185,Stand by Me,1986.0,Rob Reiner,"Wil Wheaton, River Phoenix",8.1,275477.0,/title/tt0092005/
-186,In the Name of the Father,1993.0,Jim Sheridan,"Daniel Day-Lewis, Pete Postlethwaite",8.1,111314.0,/title/tt0107207/
-187,Les quatre cents coups,1959.0,François Truffaut,"Jean-Pierre Léaud, Albert Rémy",8.1,71105.0,/title/tt0053198/
-188,Persona,1966.0,Ingmar Bergman,"Bibi Andersson, Liv Ullmann",8.1,62689.0,/title/tt0060827/
-189,12 Years a Slave,2013.0,Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams",8.1,446802.0,/title/tt2024544/
-190,The Grand Budapest Hotel,2014.0,Wes Anderson,"Ralph Fiennes, F. Murray Abraham",8.1,485195.0,/title/tt2278388/
-191,Relatos salvajes,2014.0,Damián Szifrón,"Darío Grandinetti, María Marull",8.1,93320.0,/title/tt3011894/
-192,Ben-Hur,1959.0,William Wyler,"Charlton Heston, Jack Hawkins",8.1,163294.0,/title/tt0052618/
-193,Amores perros,2000.0,Alejandro G. Iñárritu,"Emilio Echevarría, Gael García Bernal",8.1,175203.0,/title/tt0245712/
-194,Million Dollar Baby,2004.0,Clint Eastwood,"Hilary Swank, Clint Eastwood",8.1,487395.0,/title/tt0405159/
-195,The Princess Bride,1987.0,Rob Reiner,"Cary Elwes, Mandy Patinkin",8.1,297242.0,/title/tt0093779/
-196,Zootopia,2016.0,Byron Howard,"Ginnifer Goodwin, Jason Bateman",8.1,198640.0,/title/tt2948356/
-197,Jurassic Park,1993.0,Steven Spielberg,"Sam Neill, Laura Dern",8.1,621650.0,/title/tt0107290/
-198,Hachi: A Dog's Tale,2009.0,Lasse Hallström,"Richard Gere, Joan Allen",8.1,158890.0,/title/tt1028532/
-199,Touch of Evil,1958.0,Orson Welles,"Charlton Heston, Orson Welles",8.1,73698.0,/title/tt0052311/
-200,Kaze no tani no Naushika,1984.0,Hayao Miyazaki,"Sumi Shimamoto, Mahito Tsujimura",8.1,97753.0,/title/tt0087544/
-201,The Grapes of Wrath,1940.0,John Ford,"Henry Fonda, Jane Darwell",8.1,63927.0,/title/tt0032551/
-202,Stalker,1979.0,Andrei Tarkovsky,"Alisa Freyndlikh, Aleksandr Kaydanovskiy",8.0,69408.0,/title/tt0079944/
-203,Annie Hall,1977.0,Woody Allen,"Woody Allen, Diane Keaton",8.0,195374.0,/title/tt0075686/
-204,Salinui chueok,2003.0,Joon-ho Bong,"Kang-ho Song, Sang-kyung Kim",8.0,68522.0,/title/tt0353969/
-205,Before Sunrise,1995.0,Richard Linklater,"Ethan Hawke, Julie Delpy",8.0,185963.0,/title/tt0112471/
-206,The Truman Show,1998.0,Peter Weir,"Jim Carrey, Ed Harris",8.0,676794.0,/title/tt0120382/
-207,The Bourne Ultimatum,2007.0,Paul Greengrass,"Matt Damon, Edgar Ramírez",8.0,498161.0,/title/tt0440963/
-208,Gandhi,1982.0,Richard Attenborough,"Ben Kingsley, John Gielgud",8.0,173570.0,/title/tt0083987/
-209,Les diaboliques,1955.0,Henri-Georges Clouzot,"Simone Signoret, Véra Clouzot",8.0,42587.0,/title/tt0046911/
-210,Rocky,1976.0,John G. Avildsen,"Sylvester Stallone, Talia Shire",8.0,379953.0,/title/tt0075148/
-211,Donnie Darko,2001.0,Richard Kelly,"Jake Gyllenhaal, Jena Malone",8.0,586984.0,/title/tt0246578/
-212,Harry Potter and the Deathly Hallows: Part 2,2011.0,David Yates,"Daniel Radcliffe, Emma Watson",8.0,549857.0,/title/tt1201607/
-213,8½,1963.0,Federico Fellini,"Marcello Mastroianni, Anouk Aimée",8.0,79488.0,/title/tt0056801/
-214,"Monsters, Inc.",2001.0,Pete Docter,"Billy Crystal, John Goodman",8.0,593690.0,/title/tt0198781/
-215,The Wizard of Oz,1939.0,Victor Fleming,"Judy Garland, Frank Morgan",8.0,294622.0,/title/tt0032138/
-216,The Terminator,1984.0,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.0,606999.0,/title/tt0088247/
-217,Twelve Monkeys,1995.0,Terry Gilliam,"Bruce Willis, Madeleine Stowe",8.0,467222.0,/title/tt0114746/
-218,Groundhog Day,1993.0,Harold Ramis,"Bill Murray, Andie MacDowell",8.0,442350.0,/title/tt0107048/
-219,The Best Years of Our Lives,1946.0,William Wyler,"Fredric March, Dana Andrews",8.0,40768.0,/title/tt0036868/
-220,Jaws,1975.0,Steven Spielberg,"Roy Scheider, Robert Shaw",8.0,417367.0,/title/tt0073195/
-221,Mou gaan dou,2002.0,Wai-Keung Lau,"Andy Lau, Tony Chiu Wai Leung",8.0,92711.0,/title/tt0338564/
-222,Prisoners,2013.0,Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal",8.0,390996.0,/title/tt1392214/
-223,Strangers on a Train,1951.0,Alfred Hitchcock,"Farley Granger, Robert Walker",8.0,97556.0,/title/tt0044079/
-224,Song of the Sea,2014.0,Tomm Moore,"David Rawle, Brendan Gleeson",8.0,25882.0,/title/tt1865505/
-225,Barry Lyndon,1975.0,Stanley Kubrick,"Ryan O'Neal, Marisa Berenson",8.0,102940.0,/title/tt0072684/
-226,La haine,1995.0,Mathieu Kassovitz,"Vincent Cassel, Hubert Koundé",8.0,104788.0,/title/tt0113247/
-227,Sin City,2005.0,Frank Miller,"Mickey Rourke, Clive Owen",8.0,661759.0,/title/tt0401792/
-228,Deadpool,2016.0,Tim Miller,"Ryan Reynolds, Morena Baccarin",8.0,511410.0,/title/tt1431045/
-229,Kind Hearts and Coronets,1949.0,Robert Hamer,"Dennis Price, Alec Guinness",8.0,26847.0,/title/tt0041546/
-230,Catch Me If You Can,2002.0,Steven Spielberg,"Leonardo DiCaprio, Tom Hanks",8.0,535988.0,/title/tt0264464/
-231,The Revenant,2015.0,Alejandro G. Iñárritu,"Leonardo DiCaprio, Tom Hardy",8.0,426304.0,/title/tt1663202/
-232,La battaglia di Algeri,1966.0,Gillo Pontecorvo,"Brahim Hadjadj, Jean Martin",8.0,37819.0,/title/tt0058946/
-233,Dog Day Afternoon,1975.0,Sidney Lumet,"Al Pacino, John Cazale",8.0,184590.0,/title/tt0072890/
-234,Yip Man,2008.0,Wilson Yip,"Donnie Yen, Simon Yam",8.0,171133.0,/title/tt1220719/
-235,Pirates of the Caribbean: The Curse of the Black Pearl,2003.0,Gore Verbinski,"Johnny Depp, Geoffrey Rush",8.0,817975.0,/title/tt0325980/
-236,The Help,2011.0,Tate Taylor,"Emma Stone, Viola Davis",8.0,322537.0,/title/tt1454029/
-237,Gangs of Wasseypur,2012.0,Anurag Kashyap,"Manoj Bajpayee, Richa Chadha",8.0,47407.0,/title/tt1954470/
-238,The Martian,2015.0,Ridley Scott,"Matt Damon, Jessica Chastain",8.0,492917.0,/title/tt3659388/
-239,The Imitation Game,2014.0,Morten Tyldum,"Benedict Cumberbatch, Keira Knightley",8.0,479381.0,/title/tt2084970/
-240,Fanny och Alexander,1982.0,Ingmar Bergman,"Bertil Guve, Pernilla Allwin",8.0,43839.0,/title/tt0083922/
-241,Roman Holiday,1953.0,William Wyler,"Gregory Peck, Audrey Hepburn",8.0,102192.0,/title/tt0046250/
-242,Tenkû no shiro Rapyuta,1986.0,Hayao Miyazaki,"Anna Paquin, James Van Der Beek",8.0,100990.0,/title/tt0092067/
-243,Per un pugno di dollari,1964.0,Sergio Leone,"Clint Eastwood, Gian Maria Volontè",8.0,149914.0,/title/tt0058461/
-244,Guardians of the Galaxy,2014.0,James Gunn,"Chris Pratt, Vin Diesel",8.0,695565.0,/title/tt2015381/
-245,The King's Speech,2010.0,Tom Hooper,"Colin Firth, Geoffrey Rush",8.0,509777.0,/title/tt1504320/
-246,The Avengers,2012.0,Joss Whedon,"Robert Downey Jr., Chris Evans",8.0,1007314.0,/title/tt0848228/
-247,Lagaan: Once Upon a Time in India,2001.0,Ashutosh Gowariker,"Aamir Khan, Gracy Singh",8.0,73349.0,/title/tt0169102/
-248,Beauty and the Beast,1991.0,Gary Trousdale,"Paige O'Hara, Robby Benson",8.0,311957.0,/title/tt0101414/
-249,Kumonosu-jô,1957.0,Akira Kurosawa,"Toshirô Mifune, Minoru Chiaki",8.0,32462.0,/title/tt0050613/
+name,year,director,actors,rating,no_of_votes,imdb_link
+The Shawshank Redemption,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.2,1710495.0,/title/tt0111161/
+The Godfather,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2,1169281.0,/title/tt0068646/
+The Godfather: Part II,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",9.0,800914.0,/title/tt0071562/
+The Dark Knight,2008,Christopher Nolan,"Christian Bale, Heath Ledger",8.9,1697321.0,/title/tt0468569/
+12 Angry Men,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",8.9,454688.0,/title/tt0050083/
+Schindler's List,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.9,875894.0,/title/tt0108052/
+Pulp Fiction,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.9,1340358.0,/title/tt0110912/
+The Lord of the Rings: The Return of the King,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.9,1229520.0,/title/tt0167260/
+"Il buono, il brutto, il cattivo",1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.9,509254.0,/title/tt0060196/
+Fight Club,1999,David Fincher,"Brad Pitt, Edward Norton",8.8,1364808.0,/title/tt0137523/
+The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.8,1252306.0,/title/tt0120737/
+Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.7,848305.0,/title/tt0080684/
+Forrest Gump,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.7,1269267.0,/title/tt0109830/
+Inception,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.7,1487767.0,/title/tt1375666/
+The Lord of the Rings: The Two Towers,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.7,1113184.0,/title/tt0167261/
+One Flew Over the Cuckoo's Nest,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.7,687455.0,/title/tt0073486/
+Goodfellas,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.7,737686.0,/title/tt0099685/
+The Matrix,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.7,1232092.0,/title/tt0133093/
+Shichinin no samurai,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.6,231754.0,/title/tt0047478/
+Star Wars,1977,George Lucas,"Mark Hamill, Harrison Ford",8.6,921478.0,/title/tt0076759/
+Cidade de Deus,2002,Fernando Meirelles,"Alexandre Rodrigues, Matheus Nachtergaele",8.6,539158.0,/title/tt0317248/
+Se7en,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.6,1037532.0,/title/tt0114369/
+The Silence of the Lambs,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.6,899502.0,/title/tt0102926/
+It's a Wonderful Life,1946,Frank Capra,"James Stewart, Donna Reed",8.6,278878.0,/title/tt0038650/
+The Usual Suspects,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.6,749629.0,/title/tt0114814/
+La vita è bella,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6,426595.0,/title/tt0118799/
+Léon,1994,Luc Besson,"Jean Reno, Gary Oldman",8.5,735532.0,/title/tt0110413/
+Sen to Chihiro no kamikakushi,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.5,424993.0,/title/tt0245429/
+Once Upon a Time in the West,1968,Sergio Leone,"Henry Fonda, Charles Bronson",8.5,218600.0,/title/tt0064116/
+Saving Private Ryan,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.5,892857.0,/title/tt0120815/
+American History X,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.5,791645.0,/title/tt0120586/
+Casablanca,1942,Michael Curtiz,"Humphrey Bogart, Ingrid Bergman",8.5,391530.0,/title/tt0034583/
+Interstellar,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.5,948774.0,/title/tt0816692/
+Psycho,1960,Alfred Hitchcock,"Anthony Perkins, Janet Leigh",8.5,427901.0,/title/tt0054215/
+City Lights,1931,Charles Chaplin,"Charles Chaplin, Virginia Cherrill",8.5,109948.0,/title/tt0021749/
+Raiders of the Lost Ark,1981,Steven Spielberg,"Harrison Ford, Karen Allen",8.5,668097.0,/title/tt0082971/
+The Green Mile,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.5,795627.0,/title/tt0120689/
+Modern Times,1936,Charles Chaplin,"Charles Chaplin, Paulette Goddard",8.5,145364.0,/title/tt0027977/
+The Intouchables,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.5,512735.0,/title/tt1675434/
+Rear Window,1954,Alfred Hitchcock,"James Stewart, Grace Kelly",8.5,320080.0,/title/tt0047396/
+Terminator 2: Judgment Day,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.5,753292.0,/title/tt0103064/
+The Departed,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.5,884689.0,/title/tt0407887/
+The Pianist,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.5,506319.0,/title/tt0253474/
+Back to the Future,1985,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd",8.5,742175.0,/title/tt0088763/
+Whiplash,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.5,412557.0,/title/tt2582802/
+Gladiator,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5,994666.0,/title/tt0172495/
+Memento,2000,Christopher Nolan,"Guy Pearce, Carrie-Anne Moss",8.5,856404.0,/title/tt0209144/
+Apocalypse Now,1979,Francis Ford Coppola,"Martin Sheen, Marlon Brando",8.5,455402.0,/title/tt0078788/
+The Prestige,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.5,855772.0,/title/tt0482571/
+The Lion King,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5,654045.0,/title/tt0110357/
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick,"Peter Sellers, George C. Scott",8.4,346405.0,/title/tt0057012/
+Alien,1979,Ridley Scott,"Sigourney Weaver, Tom Skerritt",8.4,570836.0,/title/tt0078748/
+Sunset Blvd.,1950,Billy Wilder,"William Holden, Gloria Swanson",8.4,141247.0,/title/tt0043014/
+The Great Dictator,1940,Charles Chaplin,"Charles Chaplin, Paulette Goddard",8.4,139616.0,/title/tt0032553/
+The Lives of Others,2006,Florian Henckel von Donnersmarck,"Ulrich Mühe, Martina Gedeck",8.4,262659.0,/title/tt0405094/
+Nuovo Cinema Paradiso,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.4,154688.0,/title/tt0095765/
+Paths of Glory,1957,Stanley Kubrick,"Kirk Douglas, Ralph Meeker",8.4,122539.0,/title/tt0050825/
+Django Unchained,2012,Quentin Tarantino,"Jamie Foxx, Christoph Waltz",8.4,969549.0,/title/tt1853728/
+The Shining,1980,Stanley Kubrick,"Jack Nicholson, Shelley Duvall",8.4,618291.0,/title/tt0081505/
+Hotaru no haka,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.4,141131.0,/title/tt0095327/
+WALL·E,2008,Andrew Stanton,"Ben Burtt, Elissa Knight",8.4,728663.0,/title/tt0910970/
+The Dark Knight Rises,2012,Christopher Nolan,"Christian Bale, Tom Hardy",8.4,1158869.0,/title/tt1345836/
+American Beauty,1999,Sam Mendes,"Kevin Spacey, Annette Bening",8.4,831724.0,/title/tt0169547/
+Aliens,1986,James Cameron,"Sigourney Weaver, Michael Biehn",8.4,493586.0,/title/tt0090605/
+Mononoke-hime,1997,Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida",8.4,224931.0,/title/tt0119698/
+Oldeuboi,2003,Chan-wook Park,"Min-sik Choi, Ji-tae Yu",8.4,361348.0,/title/tt0364569/
+Once Upon a Time in America,1984,Sergio Leone,"Robert De Niro, James Woods",8.4,223785.0,/title/tt0087843/
+Citizen Kane,1941,Orson Welles,"Orson Welles, Joseph Cotten",8.4,301193.0,/title/tt0033467/
+Das Boot,1981,Wolfgang Petersen,"Jürgen Prochnow, Herbert Grönemeyer",8.3,169961.0,/title/tt0082096/
+North by Northwest,1959,Alfred Hitchcock,"Cary Grant, Eva Marie Saint",8.3,222539.0,/title/tt0053125/
+Witness for the Prosecution,1957,Billy Wilder,"Tyrone Power, Marlene Dietrich",8.3,64352.0,/title/tt0051201/
+Vertigo,1958,Alfred Hitchcock,"James Stewart, Kim Novak",8.3,252275.0,/title/tt0052357/
+Star Wars: Episode VI - Return of the Jedi,1983,Richard Marquand,"Mark Hamill, Harrison Ford",8.3,691118.0,/title/tt0086190/
+M,1931,Fritz Lang,"Peter Lorre, Ellen Widmann",8.3,100253.0,/title/tt0022100/
+Reservoir Dogs,1992,Quentin Tarantino,"Harvey Keitel, Tim Roth",8.3,672896.0,/title/tt0105236/
+Braveheart,1995,Mel Gibson,"Mel Gibson, Sophie Marceau",8.3,745019.0,/title/tt0112573/
+Amélie,2001,Jean-Pierre Jeunet,"Audrey Tautou, Mathieu Kassovitz",8.3,540730.0,/title/tt0211915/
+Requiem for a Dream,2000,Darren Aronofsky,"Ellen Burstyn, Jared Leto",8.3,580227.0,/title/tt0180093/
+A Clockwork Orange,1971,Stanley Kubrick,"Malcolm McDowell, Patrick Magee",8.3,565338.0,/title/tt0066921/
+Taxi Driver,1976,Martin Scorsese,"Robert De Niro, Jodie Foster",8.3,513917.0,/title/tt0075314/
+Double Indemnity,1944,Billy Wilder,"Fred MacMurray, Barbara Stanwyck",8.3,98972.0,/title/tt0036775/
+Lawrence of Arabia,1962,David Lean,"Peter O'Toole, Alec Guinness",8.3,195051.0,/title/tt0056172/
+Toy Story 3,2010,Lee Unkrich,"Tom Hanks, Tim Allen",8.3,552151.0,/title/tt0435761/
+To Kill a Mockingbird,1962,Robert Mulligan,"Gregory Peck, John Megna",8.3,217819.0,/title/tt0056592/
+Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,"Jim Carrey, Kate Winslet",8.3,675647.0,/title/tt0338013/
+Amadeus,1984,Milos Forman,"F. Murray Abraham, Tom Hulce",8.3,273977.0,/title/tt0086879/
+Full Metal Jacket,1987,Stanley Kubrick,"Matthew Modine, R. Lee Ermey",8.3,491556.0,/title/tt0093058/
+The Sting,1973,George Roy Hill,"Paul Newman, Robert Redford",8.3,177686.0,/title/tt0070735/
+2001: A Space Odyssey,1968,Stanley Kubrick,"Keir Dullea, Gary Lockwood",8.3,432972.0,/title/tt0062622/
+Ladri di biciclette,1948,Vittorio De Sica,"Lamberto Maggiorani, Enzo Staiola",8.3,95876.0,/title/tt0040522/
+Toy Story,1995,John Lasseter,"Tom Hanks, Tim Allen",8.3,632331.0,/title/tt0114709/
+Singin' in the Rain,1952,Stanley Donen,"Gene Kelly, Donald O'Connor",8.3,151886.0,/title/tt0045152/
+Snatch,2000,Guy Ritchie,"Jason Statham, Brad Pitt",8.3,607683.0,/title/tt0208092/
+Inglourious Basterds,2009,Quentin Tarantino,"Brad Pitt, Diane Kruger",8.3,897754.0,/title/tt0361748/
+The Kid,1921,Charles Chaplin,"Charles Chaplin, Edna Purviance",8.3,68760.0,/title/tt0012349/
+Monty Python and the Holy Grail,1975,Terry Gilliam,"Graham Chapman, John Cleese",8.3,386323.0,/title/tt0071853/
+L.A. Confidential,1997,Curtis Hanson,"Kevin Spacey, Russell Crowe",8.3,418629.0,/title/tt0119488/
+Per qualche dollaro in più,1965,Sergio Leone,"Clint Eastwood, Lee Van Cleef",8.3,159688.0,/title/tt0059578/
+Rashômon,1950,Akira Kurosawa,"Toshirô Mifune, Machiko Kyô",8.3,104012.0,/title/tt0042876/
+The Apartment,1960,Billy Wilder,"Jack Lemmon, Shirley MacLaine",8.3,110771.0,/title/tt0053604/
+Scarface,1983,Brian De Palma,"Al Pacino, Michelle Pfeiffer",8.3,543897.0,/title/tt0086250/
+3 Idiots,2009,Rajkumar Hirani,"Aamir Khan, Madhavan",8.3,213128.0,/title/tt1187043/
+Indiana Jones and the Last Crusade,1989,Steven Spielberg,"Harrison Ford, Sean Connery",8.3,521314.0,/title/tt0097576/
+Jodaeiye Nader az Simin,2011,Asghar Farhadi,"Peyman Moaadi, Leila Hatami",8.2,154080.0,/title/tt1832382/
+Metropolis,1927,Fritz Lang,"Brigitte Helm, Alfred Abel",8.2,113208.0,/title/tt0017136/
+Jagten,2012,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen",8.2,173697.0,/title/tt2106476/
+All About Eve,1950,Joseph L. Mankiewicz,"Bette Davis, Anne Baxter",8.2,83914.0,/title/tt0042192/
+Yôjinbô,1961,Akira Kurosawa,"Toshirô Mifune, Eijirô Tôno",8.2,74962.0,/title/tt0055630/
+Good Will Hunting,1997,Gus Van Sant,"Robin Williams, Matt Damon",8.2,613226.0,/title/tt0119217/
+Batman Begins,2005,Christopher Nolan,"Christian Bale, Michael Caine",8.2,993635.0,/title/tt0372784/
+The Treasure of the Sierra Madre,1948,John Huston,"Humphrey Bogart, Walter Huston",8.2,80193.0,/title/tt0040897/
+Some Like It Hot,1959,Billy Wilder,"Marilyn Monroe, Tony Curtis",8.2,177110.0,/title/tt0053291/
+Up,2009,Pete Docter,"Edward Asner, Jordan Nagai",8.2,675410.0,/title/tt1049413/
+Unforgiven,1992,Clint Eastwood,"Clint Eastwood, Gene Hackman",8.2,280694.0,/title/tt0105695/
+The Third Man,1949,Carol Reed,"Orson Welles, Joseph Cotten",8.2,115060.0,/title/tt0041959/
+Der Untergang,2004,Oliver Hirschbiegel,"Bruno Ganz, Alexandra Maria Lara",8.2,250978.0,/title/tt0363163/
+Raging Bull,1980,Martin Scorsese,"Robert De Niro, Cathy Moriarty",8.2,237674.0,/title/tt0081398/
+Bacheha-Ye aseman,1997,Majid Majidi,"Mohammad Amir Naji, Amir Farrokh Hashemian",8.2,29167.0,/title/tt0118849/
+Die Hard,1988,John McTiernan,"Bruce Willis, Alan Rickman",8.2,599049.0,/title/tt0095016/
+The Great Escape,1963,John Sturges,"Steve McQueen, James Garner",8.2,167583.0,/title/tt0057115/
+Chinatown,1974,Roman Polanski,"Jack Nicholson, Faye Dunaway",8.2,218633.0,/title/tt0071315/
+Inside Out,2015,Pete Docter,"Amy Poehler, Bill Hader",8.2,359145.0,/title/tt2096673/
+Heat,1995,Michael Mann,"Al Pacino, Robert De Niro",8.2,435891.0,/title/tt0113277/
+Pan's Labyrinth,2006,Guillermo del Toro,"Ivana Baquero, Ariadna Gil",8.2,472947.0,/title/tt0457430/
+Room,2015,Lenny Abrahamson,"Brie Larson, Jacob Tremblay",8.2,174060.0,/title/tt3170832/
+On the Waterfront,1954,Elia Kazan,"Marlon Brando, Karl Malden",8.2,102112.0,/title/tt0047296/
+Tonari no Totoro,1988,Hayao Miyazaki,"Hitoshi Takagi, Noriko Hidaka",8.2,175654.0,/title/tt0096283/
+Ikiru,1952,Akira Kurosawa,"Takashi Shimura, Nobuo Kaneko",8.2,42893.0,/title/tt0044741/
+Ran,1985,Akira Kurosawa,"Tatsuya Nakadai, Akira Terao",8.2,78716.0,/title/tt0089881/
+The Gold Rush,1925,Charles Chaplin,"Charles Chaplin, Mack Swain",8.2,68830.0,/title/tt0015864/
+Mr. Smith Goes to Washington,1939,Frank Capra,"James Stewart, Jean Arthur",8.2,78209.0,/title/tt0031679/
+The Bridge on the River Kwai,1957,David Lean,"William Holden, Alec Guinness",8.2,151293.0,/title/tt0050212/
+El secreto de sus ojos,2009,Juan José Campanella,"Ricardo Darín, Soledad Villamil",8.2,134107.0,/title/tt1305806/
+Blade Runner,1982,Ridley Scott,"Harrison Ford, Rutger Hauer",8.2,466304.0,/title/tt0083658/
+Det sjunde inseglet,1957,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand",8.2,113378.0,/title/tt0050976/
+La passion de Jeanne d'Arc,1928,Carl Theodor Dreyer,"Maria Falconetti, Eugene Silvain",8.2,25952.0,/title/tt0019254/
+"Lock, Stock and Two Smoking Barrels",1998,Guy Ritchie,"Jason Flemyng, Dexter Fletcher",8.2,419297.0,/title/tt0120735/
+Hauru no ugoku shiro,2004,Hayao Miyazaki,"Chieko Baishô, Takuya Kimura",8.2,217558.0,/title/tt0347149/
+Casino,1995,Martin Scorsese,"Robert De Niro, Sharon Stone",8.2,337717.0,/title/tt0112641/
+Judgment at Nuremberg,1961,Stanley Kramer,"Spencer Tracy, Burt Lancaster",8.2,45161.0,/title/tt0055031/
+Smultronstället,1957,Ingmar Bergman,"Victor Sjöström, Bibi Andersson",8.2,63929.0,/title/tt0050986/
+The General,1926,Clyde Bruckman,"Buster Keaton, Marion Mack",8.2,54309.0,/title/tt0017925/
+Sunrise: A Song of Two Humans,1927,F.W. Murnau,"George O'Brien, Janet Gaynor",8.2,29835.0,/title/tt0018455/
+The Elephant Man,1980,David Lynch,"Anthony Hopkins, John Hurt",8.2,163798.0,/title/tt0080678/
+A Beautiful Mind,2001,Ron Howard,"Russell Crowe, Ed Harris",8.2,619379.0,/title/tt0268978/
+Warrior,2011,Gavin O'Connor,"Tom Hardy, Nick Nolte",8.2,336393.0,/title/tt1291584/
+The Wolf of Wall Street,2013,Martin Scorsese,"Leonardo DiCaprio, Jonah Hill",8.2,795795.0,/title/tt0993846/
+V for Vendetta,2005,James McTeigue,"Hugo Weaving, Natalie Portman",8.1,801215.0,/title/tt0434409/
+Incendies,2010,Denis Villeneuve,"Lubna Azabal, Mélissa Désormeaux-Poulin",8.1,82292.0,/title/tt1255953/
+Gran Torino,2008,Clint Eastwood,"Clint Eastwood, Bee Vang",8.1,567341.0,/title/tt1205489/
+Tôkyô monogatari,1953,Yasujirô Ozu,"Chishû Ryû, Chieko Higashiyama",8.1,27347.0,/title/tt0046438/
+The Big Lebowski,1998,Joel Coen,"Jeff Bridges, John Goodman",8.1,544034.0,/title/tt0118715/
+The Deer Hunter,1978,Michael Cimino,"Robert De Niro, Christopher Walken",8.1,235081.0,/title/tt0077416/
+Star Wars: Episode VII - The Force Awakens,2015,J.J. Abrams,"Daisy Ridley, John Boyega",8.1,584037.0,/title/tt2488496/
+Dial M for Murder,1954,Alfred Hitchcock,"Ray Milland, Grace Kelly",8.1,108013.0,/title/tt0046912/
+Trainspotting,1996,Danny Boyle,"Ewan McGregor, Ewen Bremner",8.1,474727.0,/title/tt0117951/
+Gone with the Wind,1939,Victor Fleming,"Clark Gable, Vivien Leigh",8.1,217593.0,/title/tt0031381/
+Fargo,1996,Joel Coen,"William H. Macy, Frances McDormand",8.1,459785.0,/title/tt0116282/
+Rebecca,1940,Alfred Hitchcock,"Laurence Olivier, Joan Fontaine",8.1,88492.0,/title/tt0032976/
+Cool Hand Luke,1967,Stuart Rosenberg,"Paul Newman, George Kennedy",8.1,121163.0,/title/tt0061512/
+Finding Nemo,2003,Andrew Stanton,"Albert Brooks, Ellen DeGeneres",8.1,702769.0,/title/tt0266543/
+How to Train Your Dragon,2010,Dean DeBlois,"Jay Baruchel, Gerard Butler",8.1,492068.0,/title/tt0892769/
+The Sixth Sense,1999,M. Night Shyamalan,"Bruce Willis, Haley Joel Osment",8.1,712150.0,/title/tt0167404/
+The Thing,1982,John Carpenter,"Kurt Russell, Wilford Brimley",8.1,261711.0,/title/tt0084787/
+No Country for Old Men,2007,Ethan Coen,"Tommy Lee Jones, Javier Bardem",8.1,621099.0,/title/tt0477348/
+Into the Wild,2007,Sean Penn,"Emile Hirsch, Vince Vaughn",8.1,432023.0,/title/tt0758758/
+Mary and Max,2009,Adam Elliot,"Toni Collette, Philip Seymour Hoffman",8.1,120995.0,/title/tt0978762/
+Kill Bill: Vol. 1,2003,Quentin Tarantino,"Uma Thurman, David Carradine",8.1,744434.0,/title/tt0266697/
+Gone Girl,2014,David Fincher,"Ben Affleck, Rosamund Pike",8.1,581467.0,/title/tt2267998/
+The Message,1976,Moustapha Akkad,"Anthony Quinn, Irene Papas",8.1,31123.0,/title/tt0074896/
+Idi i smotri,1985,Elem Klimov,"Aleksey Kravchenko, Olga Mironova",8.1,26465.0,/title/tt0091251/
+It Happened One Night,1934,Frank Capra,"Clark Gable, Claudette Colbert",8.1,65786.0,/title/tt0025316/
+There Will Be Blood,2007,Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano",8.1,378228.0,/title/tt0469494/
+Life of Brian,1979,Terry Jones,"Graham Chapman, John Cleese",8.1,275518.0,/title/tt0079470/
+Rush,2013,Ron Howard,"Daniel Brühl, Chris Hemsworth",8.1,317415.0,/title/tt1979320/
+Le notti di Cabiria,1957,Federico Fellini,"Giulietta Masina, François Périer",8.1,26511.0,/title/tt0050783/
+Hotel Rwanda,2004,Terry George,"Don Cheadle, Sophie Okonedo",8.1,267327.0,/title/tt0395169/
+Platoon,1986,Oliver Stone,"Charlie Sheen, Tom Berenger",8.1,294694.0,/title/tt0091763/
+Le salaire de la peur,1953,Henri-Georges Clouzot,"Yves Montand, Charles Vanel",8.1,35871.0,/title/tt0046268/
+Network,1976,Sidney Lumet,"Faye Dunaway, William Holden",8.1,104828.0,/title/tt0074958/
+Spotlight,2015,Tom McCarthy,"Mark Ruffalo, Michael Keaton",8.1,209893.0,/title/tt1895587/
+The Maltese Falcon,1941,John Huston,"Humphrey Bogart, Mary Astor",8.1,114549.0,/title/tt0033870/
+Shutter Island,2010,Martin Scorsese,"Leonardo DiCaprio, Emily Mortimer",8.1,797876.0,/title/tt1130884/
+Butch Cassidy and the Sundance Kid,1969,George Roy Hill,"Paul Newman, Robert Redford",8.1,153955.0,/title/tt0064115/
+Mad Max: Fury Road,2015,George Miller,"Tom Hardy, Charlize Theron",8.1,568559.0,/title/tt1392190/
+Stand by Me,1986,Rob Reiner,"Wil Wheaton, River Phoenix",8.1,275673.0,/title/tt0092005/
+In the Name of the Father,1993,Jim Sheridan,"Daniel Day-Lewis, Pete Postlethwaite",8.1,111399.0,/title/tt0107207/
+Les quatre cents coups,1959,François Truffaut,"Jean-Pierre Léaud, Albert Rémy",8.1,71156.0,/title/tt0053198/
+Persona,1966,Ingmar Bergman,"Bibi Andersson, Liv Ullmann",8.1,62756.0,/title/tt0060827/
+12 Years a Slave,2013,Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams",8.1,447195.0,/title/tt2024544/
+Relatos salvajes,2014,Damián Szifrón,"Darío Grandinetti, María Marull",8.1,93491.0,/title/tt3011894/
+The Grand Budapest Hotel,2014,Wes Anderson,"Ralph Fiennes, F. Murray Abraham",8.1,485704.0,/title/tt2278388/
+Ben-Hur,1959,William Wyler,"Charlton Heston, Jack Hawkins",8.1,163402.0,/title/tt0052618/
+Amores perros,2000,Alejandro G. Iñárritu,"Emilio Echevarría, Gael García Bernal",8.1,175312.0,/title/tt0245712/
+Million Dollar Baby,2004,Clint Eastwood,"Hilary Swank, Clint Eastwood",8.1,487687.0,/title/tt0405159/
+The Princess Bride,1987,Rob Reiner,"Cary Elwes, Mandy Patinkin",8.1,297415.0,/title/tt0093779/
+Zootopia,2016,Byron Howard,"Ginnifer Goodwin, Jason Bateman",8.1,199937.0,/title/tt2948356/
+Jurassic Park,1993,Steven Spielberg,"Sam Neill, Laura Dern",8.1,622093.0,/title/tt0107290/
+Hachi: A Dog's Tale,2009,Lasse Hallström,"Richard Gere, Joan Allen",8.1,159099.0,/title/tt1028532/
+Touch of Evil,1958,Orson Welles,"Charlton Heston, Orson Welles",8.1,73749.0,/title/tt0052311/
+Kaze no tani no Naushika,1984,Hayao Miyazaki,"Sumi Shimamoto, Mahito Tsujimura",8.1,97830.0,/title/tt0087544/
+The Grapes of Wrath,1940,John Ford,"Henry Fonda, Jane Darwell",8.1,63970.0,/title/tt0032551/
+Stalker,1979,Andrei Tarkovsky,"Alisa Freyndlikh, Aleksandr Kaydanovskiy",8.0,69478.0,/title/tt0079944/
+Annie Hall,1977,Woody Allen,"Woody Allen, Diane Keaton",8.0,195500.0,/title/tt0075686/
+Salinui chueok,2003,Joon-ho Bong,"Kang-ho Song, Sang-kyung Kim",8.0,68603.0,/title/tt0353969/
+Before Sunrise,1995,Richard Linklater,"Ethan Hawke, Julie Delpy",8.0,186097.0,/title/tt0112471/
+The Truman Show,1998,Peter Weir,"Jim Carrey, Ed Harris",8.0,677230.0,/title/tt0120382/
+The Bourne Ultimatum,2007,Paul Greengrass,"Matt Damon, Edgar Ramírez",8.0,498470.0,/title/tt0440963/
+Gandhi,1982,Richard Attenborough,"Ben Kingsley, John Gielgud",8.0,173663.0,/title/tt0083987/
+Les diaboliques,1955,Henri-Georges Clouzot,"Simone Signoret, Véra Clouzot",8.0,42634.0,/title/tt0046911/
+Rocky,1976,John G. Avildsen,"Sylvester Stallone, Talia Shire",8.0,380197.0,/title/tt0075148/
+Donnie Darko,2001,Richard Kelly,"Jake Gyllenhaal, Jena Malone",8.0,587287.0,/title/tt0246578/
+8½,1963,Federico Fellini,"Marcello Mastroianni, Anouk Aimée",8.0,79539.0,/title/tt0056801/
+Harry Potter and the Deathly Hallows: Part 2,2011,David Yates,"Daniel Radcliffe, Emma Watson",8.0,550219.0,/title/tt1201607/
+"Monsters, Inc.",2001,Pete Docter,"Billy Crystal, John Goodman",8.0,594075.0,/title/tt0198781/
+The Wizard of Oz,1939,Victor Fleming,"Judy Garland, Frank Morgan",8.0,294776.0,/title/tt0032138/
+The Terminator,1984,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.0,607387.0,/title/tt0088247/
+Twelve Monkeys,1995,Terry Gilliam,"Bruce Willis, Madeleine Stowe",8.0,467483.0,/title/tt0114746/
+Groundhog Day,1993,Harold Ramis,"Bill Murray, Andie MacDowell",8.0,442604.0,/title/tt0107048/
+The Best Years of Our Lives,1946,William Wyler,"Fredric March, Dana Andrews",8.0,40788.0,/title/tt0036868/
+Jaws,1975,Steven Spielberg,"Roy Scheider, Robert Shaw",8.0,417624.0,/title/tt0073195/
+Mou gaan dou,2002,Wai-Keung Lau,"Andy Lau, Tony Chiu Wai Leung",8.0,92753.0,/title/tt0338564/
+Prisoners,2013,Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal",8.0,391368.0,/title/tt1392214/
+Strangers on a Train,1951,Alfred Hitchcock,"Farley Granger, Robert Walker",8.0,97621.0,/title/tt0044079/
+Barry Lyndon,1975,Stanley Kubrick,"Ryan O'Neal, Marisa Berenson",8.0,103015.0,/title/tt0072684/
+La haine,1995,Mathieu Kassovitz,"Vincent Cassel, Hubert Koundé",8.0,104872.0,/title/tt0113247/
+Song of the Sea,2014,Tomm Moore,"David Rawle, Brendan Gleeson",8.0,26028.0,/title/tt1865505/
+Sin City,2005,Frank Miller,"Mickey Rourke, Clive Owen",8.0,662041.0,/title/tt0401792/
+Kind Hearts and Coronets,1949,Robert Hamer,"Dennis Price, Alec Guinness",8.0,26884.0,/title/tt0041546/
+Catch Me If You Can,2002,Steven Spielberg,"Leonardo DiCaprio, Tom Hanks",8.0,536496.0,/title/tt0264464/
+Deadpool,2016,Tim Miller,"Ryan Reynolds, Morena Baccarin",8.0,512790.0,/title/tt1431045/
+The Revenant,2015,Alejandro G. Iñárritu,"Leonardo DiCaprio, Tom Hardy",8.0,427499.0,/title/tt1663202/
+La battaglia di Algeri,1966,Gillo Pontecorvo,"Brahim Hadjadj, Jean Martin",8.0,37849.0,/title/tt0058946/
+Dog Day Afternoon,1975,Sidney Lumet,"Al Pacino, John Cazale",8.0,184690.0,/title/tt0072890/
+Yip Man,2008,Wilson Yip,"Donnie Yen, Simon Yam",8.0,171297.0,/title/tt1220719/
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,Gore Verbinski,"Johnny Depp, Geoffrey Rush",8.0,818413.0,/title/tt0325980/
+The Help,2011,Tate Taylor,"Emma Stone, Viola Davis",8.0,322740.0,/title/tt1454029/
+The Imitation Game,2014,Morten Tyldum,"Benedict Cumberbatch, Keira Knightley",8.0,480060.0,/title/tt2084970/
+The Martian,2015,Ridley Scott,"Matt Damon, Jessica Chastain",8.0,493905.0,/title/tt3659388/
+Gangs of Wasseypur,2012,Anurag Kashyap,"Manoj Bajpayee, Richa Chadha",8.0,47516.0,/title/tt1954470/
+Roman Holiday,1953,William Wyler,"Gregory Peck, Audrey Hepburn",8.0,102284.0,/title/tt0046250/
+Tenkû no shiro Rapyuta,1986,Hayao Miyazaki,"Anna Paquin, James Van Der Beek",8.0,101068.0,/title/tt0092067/
+Fanny och Alexander,1982,Ingmar Bergman,"Bertil Guve, Pernilla Allwin",8.0,43890.0,/title/tt0083922/
+Per un pugno di dollari,1964,Sergio Leone,"Clint Eastwood, Gian Maria Volontè",8.0,150061.0,/title/tt0058461/
+Guardians of the Galaxy,2014,James Gunn,"Chris Pratt, Vin Diesel",8.0,696201.0,/title/tt2015381/
+The King's Speech,2010,Tom Hooper,"Colin Firth, Geoffrey Rush",8.0,510075.0,/title/tt1504320/
+The Avengers,2012,Joss Whedon,"Robert Downey Jr., Chris Evans",8.0,1007840.0,/title/tt0848228/
+Lagaan: Once Upon a Time in India,2001,Ashutosh Gowariker,"Aamir Khan, Gracy Singh",8.0,73454.0,/title/tt0169102/
+Kahaani,2012,Sujoy Ghosh,"Vidya Balan, Parambrata Chatterjee",8.0,39480.0,/title/tt1821480/
+Beauty and the Beast,1991,Gary Trousdale,"Paige O'Hara, Robby Benson",8.0,312197.0,/title/tt0101414/
